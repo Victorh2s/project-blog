@@ -81,9 +81,24 @@ exports[`<Menu /> > should open/close menu on button click 1`] = `
   margin-bottom: 5rem;
 }
 
+.c4 .c5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  margin: 0;
+  margin-bottom: 4.8rem;
+}
+
 .c4 .c5 img {
   margin: 0 auto;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
+  border: 0.1rem solid;
+  border-color: #dc143c;
 }
 
 .c0 {
