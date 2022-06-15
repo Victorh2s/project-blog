@@ -42,20 +42,25 @@ export const Nav = styled.nav`
 
 export const MenuLinks = styled.div`
 
-   margin-bottom: 5rem;
+margin-bottom: 5rem;
 
 `;
 
 export const Logo = styled.div`
-
+  ${({ theme }) => css`
     ${HeadingStyles} {
-
+      display:flex;
+      justify-content: center;
+      margin: 0 ;
+      margin-bottom: ${theme.spacings.xxlarge};
       img{
         margin: 0 auto;
-        margin-bottom: 3rem;
+        margin-bottom: 2rem;
+        border: 0.1rem solid ;
+        border-color: ${theme.colors.secondary};
       }
     }
-
+  `}
 `;
 
 const ButtonChanger = (
