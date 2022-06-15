@@ -3,8 +3,9 @@ import styled, { css } from 'styled-components';
 export const Container = styled.a`
   ${({ theme }) => css`
     position: fixed;
-    background: ${theme.colors.primary};
-    color: ${theme.colors.white};
+    color: ${theme.colors.primary};
+    border: 0.1rem solid;
+    border-radius: 50rem;
     display: flex;
     align-items: center;
     justify-content: center;

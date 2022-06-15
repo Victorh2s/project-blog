@@ -7,7 +7,7 @@ export type HeaderProps = {
   BlogName: string;
   BlogDescription: string;
   logo: string;
-  showText: boolean;
+  showText?: boolean;
 };
 
 export const Header = ({

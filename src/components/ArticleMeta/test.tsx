@@ -42,4 +42,20 @@ describe('<ArticleMeta />', () => {
 
     expect(container).toMatchSnapshot();
   });
+
+  it('should match snapshot without author', () => {
+    const { container } = renderTheme(
+      <ArticleMeta {...props} author={undefined} />,
+    );
+
+    expect(container).toMatchSnapshot();
+  });
+
+  it('should match snapshot without categories', () => {
+    const { container } = renderTheme(
+      <ArticleMeta {...props} categories={[]} />,
+    );
+
+    expect(container).toMatchSnapshot();
+  });
 });
