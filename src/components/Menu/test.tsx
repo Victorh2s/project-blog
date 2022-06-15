@@ -16,6 +16,7 @@ describe('<Menu />', () => {
     expect(openMenuIcon).toBeInTheDocument();
 
     expect(screen.queryByLabelText('Close Menu')).not.toBeInTheDocument();
+    expect(screen.queryByRole('navigation')).not.toBeInTheDocument();
   });
 
   it('should open/close menu on button click', () => {
@@ -36,6 +37,7 @@ describe('<Menu />', () => {
     fireEvent.click(button);
 
     expect(screen.queryByLabelText('Close Menu')).not.toBeInTheDocument();
+    expect(screen.queryByRole('navigation')).not.toBeInTheDocument();
     expect(screen.queryByLabelText('Open Menu')).toBeInTheDocument();
     expect(container).toMatchSnapshot();
   });

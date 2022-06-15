@@ -40,7 +40,7 @@ export const Menu = ({ links = [], BlogName, logo }: MenuProps) => {
           <MenuIcon aria-label="Open Menu" />
         )}
       </Styled.Button>
-      <Styled.Container Visible={Visible} arial-hidden={!Visible}>
+      <Styled.Container Visible={Visible} aria-hidden={!Visible}>
         <Styled.Nav>
           <Styled.Logo>
             <LogoLink link="/" text={BlogName} srcImg={logo} />
