@@ -1,6 +1,6 @@
 // Vitest Snapshot v1
 
-exports[`<PostTemplate /> > should match snapshot 1`] = `
+exports[`<PostsTemplate /> > should match snapshot 1`] = `
 .c6 {
   color: #0A1128;
   font-size: 2.4rem;
@@ -327,8 +327,9 @@ exports[`<PostTemplate /> > should match snapshot 1`] = `
 
 .c24 {
   position: fixed;
-  background: #0A1128;
-  color: #FFFFFF;
+  color: #0A1128;
+  border: 0.1rem solid;
+  border-radius: 50rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -601,362 +602,6 @@ exports[`<PostTemplate /> > should match snapshot 1`] = `
           </div>
         </div>
       </div>
-      <div
-        class="c17"
-      >
-        <div
-          class="c18"
-        >
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-            >
-              <img
-                alt="Vis nobis veritus maluisset id, nonumy adversarium"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614698965/Ubuntu_gel_by_Midge_Mantissa_Sinnaeve_7caea7ddb4.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-              >
-                Vis nobis veritus maluisset id, nonumy adversarium
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Fugit aliquip erroribus eu eam, an mel vidit doctus. Vis nobis veritus maluisset id, nonumy adversarium neglegentur est ut. Tation persius pri eu, modo minim fastidii mei no. Ad tota pertinax definiebas eam.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-            >
-              <img
-                alt="Sea Array Destructuring dicat fabulas consetetur "
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-              >
-                Sea Array Destructuring dicat fabulas consetetur 
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Quod oblique mei ne, cetero delicatissimi sea cu, cu est harum dicit verterem. Tota forensibus ut usu, luptatum dignissim persecuti vel ex. Mea nostrud instructior cu, et referrentur theophrastus eum. Pro in iuvaret senserit.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-            >
-              <img
-                alt="Quod oblique mei ne, cetero delicatissimi sea"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-              >
-                Quod oblique mei ne, cetero delicatissimi sea
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Et sed legere rationibus, vitae evertitur ad eam. Eu amet vero officiis vis. Ad nullam pericula neglegentur sit, vix ei regione legendos argumentum. Mei an quas convenire, nobis dicunt mei ut. 
-            </p>
-          </div>
-        </div>
-      </div>
-      <div
-        class="c17"
-      >
-        <div
-          class="c18"
-        >
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-            >
-              <img
-                alt="Vis nobis veritus maluisset id, nonumy adversarium"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614698965/Ubuntu_gel_by_Midge_Mantissa_Sinnaeve_7caea7ddb4.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-              >
-                Vis nobis veritus maluisset id, nonumy adversarium
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Fugit aliquip erroribus eu eam, an mel vidit doctus. Vis nobis veritus maluisset id, nonumy adversarium neglegentur est ut. Tation persius pri eu, modo minim fastidii mei no. Ad tota pertinax definiebas eam.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-            >
-              <img
-                alt="Sea Array Destructuring dicat fabulas consetetur "
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-              >
-                Sea Array Destructuring dicat fabulas consetetur 
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Quod oblique mei ne, cetero delicatissimi sea cu, cu est harum dicit verterem. Tota forensibus ut usu, luptatum dignissim persecuti vel ex. Mea nostrud instructior cu, et referrentur theophrastus eum. Pro in iuvaret senserit.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-            >
-              <img
-                alt="Quod oblique mei ne, cetero delicatissimi sea"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-              >
-                Quod oblique mei ne, cetero delicatissimi sea
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Et sed legere rationibus, vitae evertitur ad eam. Eu amet vero officiis vis. Ad nullam pericula neglegentur sit, vix ei regione legendos argumentum. Mei an quas convenire, nobis dicunt mei ut. 
-            </p>
-          </div>
-        </div>
-      </div>
-      <div
-        class="c17"
-      >
-        <div
-          class="c18"
-        >
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-            >
-              <img
-                alt="Vis nobis veritus maluisset id, nonumy adversarium"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614698965/Ubuntu_gel_by_Midge_Mantissa_Sinnaeve_7caea7ddb4.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-              >
-                Vis nobis veritus maluisset id, nonumy adversarium
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Fugit aliquip erroribus eu eam, an mel vidit doctus. Vis nobis veritus maluisset id, nonumy adversarium neglegentur est ut. Tation persius pri eu, modo minim fastidii mei no. Ad tota pertinax definiebas eam.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-            >
-              <img
-                alt="Sea Array Destructuring dicat fabulas consetetur "
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-              >
-                Sea Array Destructuring dicat fabulas consetetur 
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Quod oblique mei ne, cetero delicatissimi sea cu, cu est harum dicit verterem. Tota forensibus ut usu, luptatum dignissim persecuti vel ex. Mea nostrud instructior cu, et referrentur theophrastus eum. Pro in iuvaret senserit.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-            >
-              <img
-                alt="Quod oblique mei ne, cetero delicatissimi sea"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-              >
-                Quod oblique mei ne, cetero delicatissimi sea
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Et sed legere rationibus, vitae evertitur ad eam. Eu amet vero officiis vis. Ad nullam pericula neglegentur sit, vix ei regione legendos argumentum. Mei an quas convenire, nobis dicunt mei ut. 
-            </p>
-          </div>
-        </div>
-      </div>
-      <div
-        class="c17"
-      >
-        <div
-          class="c18"
-        >
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-            >
-              <img
-                alt="Vis nobis veritus maluisset id, nonumy adversarium"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614698965/Ubuntu_gel_by_Midge_Mantissa_Sinnaeve_7caea7ddb4.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/vis-nobis-veritus-maluisset-id-nonumy-adversarium"
-              >
-                Vis nobis veritus maluisset id, nonumy adversarium
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Fugit aliquip erroribus eu eam, an mel vidit doctus. Vis nobis veritus maluisset id, nonumy adversarium neglegentur est ut. Tation persius pri eu, modo minim fastidii mei no. Ad tota pertinax definiebas eam.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-            >
-              <img
-                alt="Sea Array Destructuring dicat fabulas consetetur "
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/sea-array-destructuring-dicat-fabulas-consetetur"
-              >
-                Sea Array Destructuring dicat fabulas consetetur 
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Quod oblique mei ne, cetero delicatissimi sea cu, cu est harum dicit verterem. Tota forensibus ut usu, luptatum dignissim persecuti vel ex. Mea nostrud instructior cu, et referrentur theophrastus eum. Pro in iuvaret senserit.
-            </p>
-          </div>
-          <div
-            class="c19"
-          >
-            <a
-              href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-            >
-              <img
-                alt="Quod oblique mei ne, cetero delicatissimi sea"
-                class="c20"
-                src="https://res.cloudinary.com/dlizakp2a/image/upload/v1614699042/Origin_of_nature_by_Julian_Tomasini_dcfdd17cbe.jpg"
-              />
-            </a>
-            <h2
-              class="c5 c21"
-            >
-              <a
-                href="/post/quod-oblique-mei-ne-cetero-delicatissimi-sea"
-              >
-                Quod oblique mei ne, cetero delicatissimi sea
-              </a>
-            </h2>
-            <p
-              class=""
-            >
-              Et sed legere rationibus, vitae evertitur ad eam. Eu amet vero officiis vis. Ad nullam pericula neglegentur sit, vix ei regione legendos argumentum. Mei an quas convenire, nobis dicunt mei ut. 
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
     <div
       class="c22"
@@ -1000,7 +645,7 @@ exports[`<PostTemplate /> > should match snapshot 1`] = `
 </div>
 `;
 
-exports[`<PostTemplate /> > should match snapshot without posts  1`] = `
+exports[`<PostsTemplate /> > should match snapshot without posts  1`] = `
 .c6 {
   color: #0A1128;
   font-size: 2.4rem;
@@ -1300,8 +945,9 @@ exports[`<PostTemplate /> > should match snapshot without posts  1`] = `
 
 .c22 {
   position: fixed;
-  background: #0A1128;
-  color: #FFFFFF;
+  color: #0A1128;
+  border: 0.1rem solid;
+  border-radius: 50rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -1485,54 +1131,6 @@ exports[`<PostTemplate /> > should match snapshot without posts  1`] = `
     <div
       class="c16"
     >
-      <div
-        class="c17"
-      >
-        <p
-          class="c18"
-        >
-          Nenhum post Foi encontrado
-        </p>
-        <div
-          class="c19"
-        />
-      </div>
-      <div
-        class="c17"
-      >
-        <p
-          class="c18"
-        >
-          Nenhum post Foi encontrado
-        </p>
-        <div
-          class="c19"
-        />
-      </div>
-      <div
-        class="c17"
-      >
-        <p
-          class="c18"
-        >
-          Nenhum post Foi encontrado
-        </p>
-        <div
-          class="c19"
-        />
-      </div>
-      <div
-        class="c17"
-      >
-        <p
-          class="c18"
-        >
-          Nenhum post Foi encontrado
-        </p>
-        <div
-          class="c19"
-        />
-      </div>
       <div
         class="c17"
       >

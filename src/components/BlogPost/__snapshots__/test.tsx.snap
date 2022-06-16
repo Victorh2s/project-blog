@@ -14,7 +14,7 @@ exports[`<BlogPost /> > should render header, excerpt, cover, metadata and post 
   -ms-flex-pack: center;
   justify-content: center;
   margin-bottom: 4.0rem;
-  border-bottom: 0.1rem solid #BBBBBB;
+  border-bottom: 0.1rem solid;
 }
 
 .c1 .c2 {
@@ -37,7 +37,6 @@ exports[`<BlogPost /> > should render header, excerpt, cover, metadata and post 
 
 .c6 {
   font-size: 1.6rem;
-  color: #BBBBBB;
   font-style: italic;
 }
 

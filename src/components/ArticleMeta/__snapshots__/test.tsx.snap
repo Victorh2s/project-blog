@@ -3,7 +3,6 @@
 exports[`<ArticleMeta /> > should match snapshot 1`] = `
 .c0 {
   font-size: 1.6rem;
-  color: #BBBBBB;
   font-style: italic;
 }
 
@@ -82,7 +81,6 @@ exports[`<ArticleMeta /> > should match snapshot 1`] = `
 exports[`<ArticleMeta /> > should match snapshot without author 1`] = `
 .c0 {
   font-size: 1.6rem;
-  color: #BBBBBB;
   font-style: italic;
 }
 
@@ -153,7 +151,6 @@ exports[`<ArticleMeta /> > should match snapshot without author 1`] = `
 exports[`<ArticleMeta /> > should match snapshot without categories 1`] = `
 .c0 {
   font-size: 1.6rem;
-  color: #BBBBBB;
   font-style: italic;
 }
 

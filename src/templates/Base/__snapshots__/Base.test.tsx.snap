@@ -277,8 +277,9 @@ exports[`<Base /> > should match snapshot) 1`] = `
 
 .c19 {
   position: fixed;
-  background: #0A1128;
-  color: #FFFFFF;
+  color: #0A1128;
+  border: 0.1rem solid;
+  border-radius: 50rem;
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
